@@ -9,9 +9,9 @@ the application is good for desktops and laptops as well as small devices the us
 I am currently working on this application, at the moment it is not complete
 
 
-
-![Screenshot 2023-04-02 at 16-37-21 GREYBOX-LEARN](https://user-images.githubusercontent.com/100442560/229359768-fd051f15-227f-4a06-b8bb-d6f8bb67b99c.png)
+![Pc Version of GBT_LMS](https://user-images.githubusercontent.com/100442560/230475034-aa4b5ff7-5d16-4e90-aca9-69996915855d.png)
 
 mobile responsive
 
-![Screenshot 2023-04-02 at 16-38-22 GREYBOX-LEARN](https://user-images.githubusercontent.com/100442560/229359810-0a80cc30-bf15-46c2-97cd-dc46b0d5e7d0.png)
+![mobile version GBT-LMS](https://user-images.githubusercontent.com/100442560/230475077-13e2b5fe-dc0e-44c0-83e4-2bcdfccaf0af.png)
+
