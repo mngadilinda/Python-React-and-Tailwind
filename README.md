@@ -1,5 +1,5 @@
 
-# GBT-Ed
+# GREYBOX-Ed
 This is the Backend of the Educational web app
 
 
